@@ -10,6 +10,8 @@ In the last stages, we talked about future plans using deep learning for the cla
 
 <img src="data/doc2doc_similarity.jpg" width="300">
 
+The documents were taken from the official website of the Federal Agency for Railway Transport of Russian Federation with the link: http://pravo.gov.ru/proxy/ips/?docbody=&nd=102131168&rdk=5
+
 ## Cоздание рекомендательной системы, позволяющей соединять акты с внешних источников с локальными актами компании, которые потенциально подлежат изменению
 
 $\textbf{Аннотация}$
