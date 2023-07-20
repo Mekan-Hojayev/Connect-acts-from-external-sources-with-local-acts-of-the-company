@@ -8,7 +8,7 @@ We divided the work into two parts: the first is to find documents by similarity
 
 In the last stages, we talked about future plans using deep learning for the classification task.
 
-
+<img src="data/doc2doc_similarity.jpg" width="300">
 
 ## Cоздание рекомендательной системы, позволяющей соединять акты с внешних источников с локальными актами компании, которые потенциально подлежат изменению
 
